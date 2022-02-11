@@ -8,6 +8,7 @@ This project was built to fetch data from an api an map out specific companies l
 ![](/src/assets/navigation.PNG)
 ![](/src/assets/Page1.PNG)
 ![](/src/assets/Page2Style.PNG)
+![](/src/assets/test.PNG)
 
 
 # Built With
