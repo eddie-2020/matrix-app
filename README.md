@@ -6,6 +6,9 @@
 This project was built to fetch data from an api an map out specific companies location and their prices.
 
 ![](/src/assets/navigation.PNG)
+![](/src/assets/Page1.PNG)
+![](/src/assets/Page2.PNG)
+
 
 # Built With
 
