@@ -5,7 +5,6 @@
 }
 
 body {
-  /* margin: 0; */
   font-family:
     -apple-system,
     BlinkMacSystemFont,
@@ -35,8 +34,6 @@ code {
     "Courier New",
     monospace;
 }
-
-/* app css */
 
 .spinner {
   background-color: var(--dark-pink);
@@ -201,8 +198,6 @@ code {
   align-items: center;
   margin-top: 10%;
 }
-
-/* indexcss */
 
 .top-body {
   width: 100%;
@@ -374,4 +369,16 @@ code {
   width: 80%;
   margin-inline: auto;
   color: #efefef;
+}
+
+@media (min-width: 650px) {
+  .companyName {
+    text-align: right;
+    font-size: 16px;
+    text-transform: uppercase;
+    font-weight: 700;
+    width: 80%;
+    margin-inline: auto;
+    color: #efefef;
+  }
 }
