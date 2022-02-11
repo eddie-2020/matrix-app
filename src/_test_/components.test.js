@@ -3,7 +3,7 @@ import renderer from 'react-test-renderer';
 import { Provider } from 'react-redux';
 import { BrowserRouter as Routes } from 'react-router-dom';
 import store from '../redux/configureStore';
-import Main from '../pages/mainInc'
+import Main from '../pages/mainInc';
 import Each from '../components/Finance/Each';
 import Home from '../components/Finance/Home';
 import Top from '../components/Finance/Top';

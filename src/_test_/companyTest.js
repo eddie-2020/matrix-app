@@ -3,11 +3,11 @@ import renderer from 'react-test-renderer';
 import { Provider } from 'react-redux';
 import { BrowserRouter as Route } from 'react-router-dom';
 import store from '../redux/configureStore';
-import Company from '../pages/Company';
-import CompanyTop from '../components/CompanyTop';
-import CompanyBanner from '../compponents/CompanyBanner.JS';
-import FinanceHeading from '../components/FinanceHeading';
-import FinanceSection from '../components/FinanceSection';
+import Company from '../pages/companyInc';
+import CompanyTop from '../components/Finance/Top';
+import CompanyBanner from '../components/Finance/Banner';
+import FinanceHeading from '../components/Finance/HeadOfFinance';
+import FinanceSection from '../components/Inc/FinanceIncSec';
 
 test('Second company page render', () => {
   const home = renderer
