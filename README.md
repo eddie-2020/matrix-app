@@ -5,7 +5,7 @@
 
 This project was built to fetch data from an api an map out specific companies location and their prices.
 
-![]()
+![](/src/assets/navigation.PNG)
 
 # Built With
 
@@ -24,7 +24,7 @@ To get a local copy up and running follow these simple example steps.
 
 # Prerequisites
 
-Setup: Clone  into the destination folder of your local machine.
+Setup: Clone https://github.com/oluyaratosin123/Metrics-Webapp.git into the destination folder of your local machine.
 Install: Install linters with the npx commands given in the linters.yml file.
 Usage: N/A
 Run tests: Run syntax tests with the use of the npx commands given in the linters.yml file.
