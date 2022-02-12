@@ -26,6 +26,10 @@ This project was built to fetch data from an api an map out specific companies l
 
 To get a local copy up and running follow these simple example steps.
 
+# Live Demo Link
+
+[Company Inc](https://immense-brook-29259.herokuapp.com/)
+
 # Prerequisites
 
 Setup: Clone https://github.com/oluyaratosin123/Metrics-Webapp.git into the destination folder of your local machine.
@@ -39,7 +43,9 @@ Deployment: Run index.html on your local server.
 GitHub: https://github.com/oluyaratosin123
 LinkedIn: https://www.linkedin.com/in/edward-oluyara-708b88215/
 
-# Acknowledgement
+# Acknowledgment
+
+- [Nelson Sakwa](https://www.behance.net/sakwadesignstudio) the [author of the original design](https://www.behance.net/gallery/31579789/Ballhead-App-(Free-PSDs)), as required by the [Creative Commons License](https://creativecommons.org/licenses/)
 
 Contributions, issues, and feature requests are welcome!
 
